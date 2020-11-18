@@ -1,0 +1,32 @@
+The ANN_Module.py and DB_Module.py include all functionality and while these have some comments.
+
+The Rpredict.py contains an implementation example and you should get some output with
+
+python Rpredict.py --predict  --sqlite=./sqlite/Rosetta.sqlite
+
+The example used two soil texture samples ( 90%, 5%, 5% and 40%, 35%, 25% for sand, silt, clay percentages)  as an example. 
+The output includes mean values for theta_r, theta_s, log(alpha), log(n), and log(Ks), as well as standard deviations, skewness, and kurtosis from alpha-stable distributions, and covariances between these parameters. 
+
+
+In short, three things must happen:
+1) create the model  
+2) get the data (this is hard-wired in the file, but a DB query is included also, but not active)
+3) make an estimate  (provides mean, stdev and more)
+
+
+python Rpredict.py -i ./output/test_input_H2w.txt -o ./output/test_output_H2w.txt --predict --sqlite=./sqlite/Rosetta.sqlite
+
+or
+py Rpred_v2.py -i ./output/mean_values_ka5.txt -o ./output/mean_values_ka5_results.txt --predict --sqlite=./sqlite/Rosetta.sqlite
+
+or
+py Rpred_v2.py   -i   ./output/test_input_H2w.txt  -o  ./output/test_output_2.txt --predict --sqlite=./sqlite/Rosetta.sqlite
+
+Note that there are two sets of models: 2..5 and 102..105.  The latter are the OLD (Schaap et al., 2001) models.  The models 2..5 are NEW and better.
+
+NOT included in the current version
+1) : the class textural averages.
+2) : estimation of unsaturated conductivity.
+Both are on the TODO list.
+
+Please understand that this is NOT the final version (it is an alpha version), and that there may be some bugs.  However, Marcel and I have checked the estimates and found these in good order.  If you find any bugs or have feature requests (or need help), please let us know.

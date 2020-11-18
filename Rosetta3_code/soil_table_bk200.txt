@@ -1,0 +1,1927 @@
+1037	{
+	method	=	MultipleHorizons;	ThicknessScaling=1;
+	horizon	=	1	2	3	4	;
+	Name	=	Sl3	Sl3	Sl2	NA;	
+	ksat	=	1.13E-05	1.13E-05	1.86E-05	1.13E-05	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.25	0.25	0.5	1	;
+	layers	=	1	1	1	1	;
+}							
+1038	{						
+	method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	4	;
+	Name	=	Sl3	Sl3	Sl2	NA;	
+	ksat	=	1.13E-05	1.13E-05	1.86E-05	1.13E-05	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.25	0.25	0.5	1	;
+	layers	=	1	1	1	1	;
+}							
+1987	{						
+	method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	4	;
+	Name	=	Sl3	Sl3	Sl2	NA;	
+	ksat	=	1.13E-05	1.13E-05	1.86E-05	1.13E-05	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.25	0.25	0.5	1	;
+	layers	=	1	1	1	1	;
+}							
+2519	{						
+	method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	4	;
+	Name	=	Sl3	Sl3	Sl2	NA;	
+	ksat	=	1.13E-05	1.13E-05	1.86E-05	1.13E-05	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.25	0.25	0.5	1	;
+	layers	=	1	1	1	1	;
+}							
+2526	{						
+	method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	4	;
+	Name	=	Sl3	Sl3	Sl2	NA;	
+	ksat	=	1.13E-05	1.13E-05	1.86E-05	1.13E-05	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.25	0.25	0.5	1	;
+	layers	=	1	1	1	1	;
+}							
+2527	{						
+	method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	4	;
+	Name	=	Sl3	Sl3	Sl2	NA;	
+	ksat	=	1.13E-05	1.13E-05	1.86E-05	1.13E-05	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.25	0.25	0.5	1	;
+	layers	=	1	1	1	1	;
+}							
+2560	{						
+	method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	4	;
+	Name	=	Sl3	Sl3	Sl2	NA;	
+	ksat	=	1.13E-05	1.13E-05	1.86E-05	1.13E-05	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.25	0.25	0.5	1	;
+	layers	=	1	1	1	1	;
+}							
+2563	{						
+	method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	4	;
+	Name	=	Sl3	Sl3	Sl2	NA;	
+	ksat	=	1.13E-05	1.13E-05	1.86E-05	1.13E-05	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.25	0.25	0.5	1	;
+	layers	=	1	1	1	1	;
+}							
+2567	{						
+	method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	4	;
+	Name	=	Sl3	Sl3	Sl2	NA;	
+	ksat	=	1.13E-05	1.13E-05	1.86E-05	1.13E-05	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.25	0.25	0.5	1	;
+	layers	=	1	1	1	1	;
+}							
+2569	{						
+	method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	4	;
+	Name	=	Sl3	Sl3	Sl2	NA;	
+	ksat	=	1.13E-05	1.13E-05	1.86E-05	1.13E-05	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.25	0.25	0.5	1	;
+	layers	=	1	1	1	1	;
+}							
+2571	{						
+	method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	4	;
+	Name	=	Sl3	Sl3	Sl2	NA;	
+	ksat	=	1.13E-05	1.13E-05	1.86E-05	1.13E-05	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.25	0.25	0.5	1	;
+	layers	=	1	1	1	1	;
+}							
+2575	{						
+	method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	4	;
+	Name	=	Sl3	Sl3	Sl2	NA;	
+	ksat	=	1.13E-05	1.13E-05	1.86E-05	1.13E-05	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.25	0.25	0.5	1	;
+	layers	=	1	1	1	1	;
+}							
+2576	{						
+	method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	4	;
+	Name	=	Sl3	Sl3	Sl2	NA;	
+	ksat	=	1.13E-05	1.13E-05	1.86E-05	1.13E-05	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.25	0.25	0.5	1	;
+	layers	=	1	1	1	1	;
+}							
+2578	{						
+	method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	4	;
+	Name	=	Sl3	Sl3	Sl2	NA;	
+	ksat	=	1.13E-05	1.13E-05	1.86E-05	1.13E-05	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.25	0.25	0.5	1	;
+	layers	=	1	1	1	1	;
+}							
+2579	{						
+	method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	4	;
+	Name	=	Sl3	Sl3	Sl2	NA;	
+	ksat	=	1.13E-05	1.13E-05	1.86E-05	1.13E-05	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.25	0.25	0.5	1	;
+	layers	=	1	1	1	1	;
+}							
+2580	{						
+	method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	4	;
+	Name	=	Sl3	Sl3	Sl2	NA;	
+	ksat	=	1.13E-05	1.13E-05	1.86E-05	1.13E-05	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.25	0.25	0.5	1	;
+	layers	=	1	1	1	1	;
+}							
+2582	{						
+	method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	4	;
+	Name	=	Sl3	Sl3	Sl2	NA;	
+	ksat	=	1.13E-05	1.13E-05	1.86E-05	1.13E-05	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.25	0.25	0.5	1	;
+	layers	=	1	1	1	1	;
+}							
+2583	{						
+	method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	4	;
+	Name	=	Sl3	Sl3	Sl2	NA;	
+	ksat	=	1.13E-05	1.13E-05	1.86E-05	1.13E-05	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.25	0.25	0.5	1	;
+	layers	=	1	1	1	1	;
+}							
+2584	{						
+	method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	4	;
+	Name	=	Sl3	Sl3	Sl2	NA;	
+	ksat	=	1.13E-05	1.13E-05	1.86E-05	1.13E-05	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.25	0.25	0.5	1	;
+	layers	=	1	1	1	1	;
+}							
+2585	{						
+	method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	4	;
+	Name	=	Sl3	Sl3	Sl2	NA;	
+	ksat	=	1.13E-05	1.13E-05	1.86E-05	1.13E-05	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.25	0.25	0.5	1	;
+	layers	=	1	1	1	1	;
+}							
+2586	{						
+	method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	4	;
+	Name	=	Sl3	Sl3	Sl2	NA;	
+	ksat	=	1.13E-05	1.13E-05	1.86E-05	1.13E-05	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.25	0.25	0.5	1	;
+	layers	=	1	1	1	1	;
+}							
+2587	{						
+	method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	4	;
+	Name	=	Sl3	Sl3	Sl2	NA;	
+	ksat	=	1.13E-05	1.13E-05	1.86E-05	1.13E-05	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.25	0.25	0.5	1	;
+	layers	=	1	1	1	1	;
+}							
+2588	{						
+	method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	4	;
+	Name	=	Sl3	Sl3	Sl2	NA;	
+	ksat	=	1.13E-05	1.13E-05	1.86E-05	1.13E-05	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.25	0.25	0.5	1	;
+	layers	=	1	1	1	1	;
+}							
+2590	{						
+	method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	4	;
+	Name	=	Sl3	Sl3	Sl2	NA;	
+	ksat	=	1.13E-05	1.13E-05	1.86E-05	1.13E-05	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.25	0.25	0.5	1	;
+	layers	=	1	1	1	1	;
+}							
+2591	{						
+	method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	4	;
+	Name	=	Sl3	Sl3	Sl2	NA;	
+	ksat	=	1.13E-05	1.13E-05	1.86E-05	1.13E-05	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.25	0.25	0.5	1	;
+	layers	=	1	1	1	1	;
+}							
+2593	{						
+	method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	4	;
+	Name	=	Sl3	Sl3	Sl2	NA;	
+	ksat	=	1.13E-05	1.13E-05	1.86E-05	1.13E-05	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.25	0.25	0.5	1	;
+	layers	=	1	1	1	1	;
+}							
+2594	{						
+	method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	4	;
+	Name	=	Sl3	Sl3	Sl2	NA;	
+	ksat	=	1.13E-05	1.13E-05	1.86E-05	1.13E-05	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.25	0.25	0.5	1	;
+	layers	=	1	1	1	1	;
+}							
+2595	{						
+	method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	4	;
+	Name	=	Sl3	Sl3	Sl2	NA;	
+	ksat	=	1.13E-05	1.13E-05	1.86E-05	1.13E-05	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.25	0.25	0.5	1	;
+	layers	=	1	1	1	1	;
+}							
+2596	{						
+	method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	4	;
+	Name	=	Sl3	Sl3	Sl2	NA;	
+	ksat	=	1.13E-05	1.13E-05	1.86E-05	1.13E-05	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.25	0.25	0.5	1	;
+	layers	=	1	1	1	1	;
+}							
+2597	{						
+	method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	4	;
+	Name	=	Sl3	Sl3	Sl2	NA;	
+	ksat	=	1.13E-05	1.13E-05	1.86E-05	1.13E-05	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.25	0.25	0.5	1	;
+	layers	=	1	1	1	1	;
+}							
+2598	{						
+	method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	4	;
+	Name	=	Sl3	Sl3	Sl2	NA;	
+	ksat	=	1.13E-05	1.13E-05	1.86E-05	1.13E-05	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.25	0.25	0.5	1	;
+	layers	=	1	1	1	1	;
+}							
+2600	{						
+	method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	4	;
+	Name	=	Sl3	Sl3	Sl2	NA;	
+	ksat	=	1.13E-05	1.13E-05	1.86E-05	1.13E-05	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.25	0.25	0.5	1	;
+	layers	=	1	1	1	1	;
+}							
+2601	{						
+	method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	4	;
+	Name	=	Sl3	Sl3	Sl2	NA;	
+	ksat	=	1.13E-05	1.13E-05	1.86E-05	1.13E-05	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.25	0.25	0.5	1	;
+	layers	=	1	1	1	1	;
+}							
+2604	{						
+	method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	4	;
+	Name	=	Sl3	Sl3	Sl2	NA;	
+	ksat	=	1.13E-05	1.13E-05	1.86E-05	1.13E-05	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.25	0.25	0.5	1	;
+	layers	=	1	1	1	1	;
+}							
+2605	{						
+	method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	4	;
+	Name	=	Sl3	Sl3	Sl2	NA;	
+	ksat	=	1.13E-05	1.13E-05	1.86E-05	1.13E-05	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.25	0.25	0.5	1	;
+	layers	=	1	1	1	1	;
+}							
+2606	{						
+	method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	4	;
+	Name	=	Sl3	Sl3	Sl2	NA;	
+	ksat	=	1.13E-05	1.13E-05	1.86E-05	1.13E-05	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.25	0.25	0.5	1	;
+	layers	=	1	1	1	1	;
+}							
+2611	{						
+	method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	4	;
+	Name	=	Sl3	Sl3	Sl2	NA;	
+	ksat	=	1.13E-05	1.13E-05	1.86E-05	1.13E-05	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.25	0.25	0.5	1	;
+	layers	=	1	1	1	1	;
+}							
+2612	{						
+	method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	4	;
+	Name	=	Sl3	Sl3	Sl2	NA;	
+	ksat	=	1.13E-05	1.13E-05	1.86E-05	1.13E-05	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.25	0.25	0.5	1	;
+	layers	=	1	1	1	1	;
+}							
+2613	{						
+	method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	4	;
+	Name	=	Sl3	Sl3	Sl2	NA;	
+	ksat	=	1.13E-05	1.13E-05	1.86E-05	1.13E-05	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.25	0.25	0.5	1	;
+	layers	=	1	1	1	1	;
+}							
+2674	{						
+	method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	4	;
+	Name	=	Sl3	Sl3	Sl2	NA;	
+	ksat	=	1.13E-05	1.13E-05	1.86E-05	1.13E-05	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.25	0.25	0.5	1	;
+	layers	=	1	1	1	1	;
+}							
+2675	{						
+	method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	4	;
+	Name	=	Sl3	Sl3	Sl2	NA;	
+	ksat	=	1.13E-05	1.13E-05	1.86E-05	1.13E-05	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.25	0.25	0.5	1	;
+	layers	=	1	1	1	1	;
+}							
+2677	{						
+	method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	4	;
+	Name	=	Sl3	Sl3	Sl2	NA;	
+	ksat	=	1.13E-05	1.13E-05	1.86E-05	1.13E-05	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.25	0.25	0.5	1	;
+	layers	=	1	1	1	1	;
+}							
+36	{method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	4	;
+	Name	=	Ut4	36	Ut3	36	Ut3
+	ksat	=	5.21E-06	4.74E-06	4.74E-06	2.01E-05	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.25	0.45	0.3	1	;
+	layers	=	1	1	1	1	;
+	}						
+45	{method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2.00E+00	3.00E+00	4.00E+00	;
+	Name	=	Ls2	45	Ls3	45	Sl4
+	ksat	=	6.13E-06	8.56E-06	1.23E-05	4.34E-05	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.3	0.7	0.5	0.5	;
+	layers	=	1	1	1	1	;
+	}						
+232	{method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	4	;
+	Name	=	Lu	232	Lu	232	Lu
+	ksat	=	5.21E-06	5.21E-06	5.21E-06	2.08E-06	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.3	0.2	0.3	0.4	;
+	layers	=	1	1	1	1	;
+	}						
+236	{method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	4	;
+	Name	=	Ut4	236	Ut4	236	Tu3
+	ksat	=	5.21E-06	5.21E-06	2.08E-06	5.21E-06	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.3	0.1	0.4	1.2	;
+	layers	=	1	1	1	1	;
+	}						
+240	{method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	1	;
+	Name	=	Ut4	240	Tu3	240	Tu3
+	ksat	=	5.21E-06	2.08E-06	2.08E-06	5.21E-06	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.3	0.8	0.9	0.3	;
+	layers	=	1	1	1	1	;
+	}						
+242	{method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	4	;
+	Name	=	Ut3	242	Ut4	242	Lu
+	ksat	=	4.74E-06	5.21E-06	5.21E-06	2.08E-06	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.3	0.1	0.25	0.45	;
+	layers	=	1	1	1	1	;
+	}						
+251	{method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	2	3	4	2	;
+	Name	=	Tu3	251	Tu3	251	Tu3
+	ksat	=	2.08E-06	2.08E-06	2.08E-06	2.08E-06	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.1	0.1	1	0.1	;
+	layers	=	1	1	1	1	;
+	}						
+263	{method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	2	3	4	2	;
+	Name	=	Lu	263	Lu	263	Lu
+	ksat	=	5.21E-06	5.21E-06	5.21E-06	5.21E-06	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	5.00E-01	5.00E-01	5.00E-01	5.00E-01	;
+	thickness	=	0.1	0.1	0.8	0.1	;
+	layers	=	1	1	1	1	;
+	}						
+264	{method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	1	2	;
+	Name	=	Tu3	264	Tu2	264	Tu3
+	ksat	=	2.08E-06	9.26E-07	2.08E-06	9.26E-07	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.50E+00	1.50E+00	1.50E+00	1.50E+00	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.15	0.85	0.15	0.85	;
+	layers	=	1	1	1	1	;
+	}						
+267	{method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	1	;
+	Name	=	Lt3	267	Lt3	267	Tl
+	ksat	=	2.31E-06	2.31E-06	9.26E-07	2.31E-06	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	1.00E+00	1.00E+00	1.00E+00	1.00E+00	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.1	0.1	1.3	0.1	;
+	layers	=	1	1	1	1	;
+	}						
+283	{method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	2	3	4	2	;
+	Name	=	Ls3	283	Ls3	283	Ls4
+	ksat	=	8.56E-06	8.56E-06	7.87E-06	8.56E-06	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	5.00E-02	5.00E-02	5.00E-02	5.00E-02	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.05	0.1	0.45	0.05	;
+	layers	=	1	1	1	1	;
+	}						
+411	{method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	1	2	;
+	Name	=	Su3	411	Su3	411	Su3
+	ksat	=	1.02E-05	1.02E-05	1.02E-05	1.02E-05	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	4.30E-01	4.30E-01	4.30E-01	4.30E-01	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.25	0.15	0.25	0.15	;
+	layers	=	1	1	1	1	;
+	}						
+418	{method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	4	;
+	Name	=	Lu	418	Lu	418	Lu
+	ksat	=	5.21E-06	5.21E-06	5.21E-06	8.56E-06	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.13	0.17	0.7	0.5	;
+	layers	=	1	1	1	1	;
+	}						
+503	{method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	2	3	2	3	;
+	Name	=	Ss	503	Ss	503	Ss
+	ksat	=	4.34E-05	4.34E-05	4.34E-05	4.34E-05	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.2	1.5	0.2	1.5	;
+	layers	=	1	1	1	1	;
+	}						
+528	{method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	4	;
+	Name	=	Sl2	528	Uls	528	Slu
+	ksat	=	1.86E-05	5.67E-06	6.94E-06	1.13E-05	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.12	0.13	0.2	0.4	;
+	layers	=	1	1	1	1	;
+	}						
+603	{method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2.00E+00	3.00E+00	1.00E+00	;
+	Name	=	Lu	603	Lu	603	Tl
+	ksat	=	5.21E-06	5.21E-06	9.26E-07	5.21E-06	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.3	0.2	0.5	0.3	;
+	layers	=	1	1	1	1	;
+	}						
+784	{method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	1	;
+	Name	=	Lu	784	Lu	784	Lt2
+	ksat	=	5.21E-06	5.21E-06	3.82E-06	5.21E-06	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.3	0.1	0.6	0.3	;
+	layers	=	1	1	1	1	;
+	}						
+787	{method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	4	;
+	Name	=	Ut3	787	Ut3	787	Tu3
+	ksat	=	4.74E-06	4.74E-06	2.08E-06	2.31E-06	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.3	0.2	0.5	0.3	;
+	layers	=	1	1	1	1	;
+	}						
+810	{method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	4	;
+	Name	=	Tu2	810	Lt3	810	Slu
+	ksat	=	9.26E-07	2.31E-06	6.94E-06	4.34E-05	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.15	0.55	0.4	0.9	;
+	layers	=	1	1	1	1	;
+	}						
+837	{method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	1	;
+	Name	=	Ut3	837	Ut2	837	Uu
+	ksat	=	4.74E-06	3.70E-06	3.70E-06	4.74E-06	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.3	0.2	1.5	0.3	;
+	layers	=	1	1	1	1	;
+	}						
+844	{method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	4	;
+	Name	=	Lu	844	Tu3	844	Tu3
+	ksat	=	5.21E-06	2.08E-06	2.08E-06	9.26E-07	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.3	0.4	0.1	0.7	;
+	layers	=	1	1	1	1	;
+	}						
+855	{method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	1	;
+	Name	=	Sl3	855	Sl2	855	Ss
+	ksat	=	1.13E-05	1.86E-05	4.34E-05	1.13E-05	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	5.00E-01	5.00E-01	5.00E-01	5.00E-01	;
+	thickness	=	0.12	0.38	1.5	0.12	;
+	layers	=	1	1	1	1	;
+	}						
+880	{method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	1	;
+	Name	=	Sl3	880	Sl3	880	Sl2
+	ksat	=	1.13E-05	1.13E-05	1.86E-05	1.13E-05	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.50E+00	1.50E+00	1.50E+00	1.50E+00	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.25	0.25	0.5	0.25	;
+	layers	=	1	1	1	1	;
+	}						
+884	{method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	4	;
+	Name	=	Tt	884	Tt	884	Tt
+	ksat	=	4.63E-07	4.63E-07	4.63E-07	9.26E-07	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	1.00E+00	1.00E+00	1.00E+00	1.00E+00	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.1	0.2	0.2	0.8	;
+	layers	=	1	1	1	1	;
+	}						
+885	{method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	1	;
+	Name	=	Ut4	885	Tu3	885	Ut3
+	ksat	=	5.21E-06	2.08E-06	4.74E-06	5.21E-06	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	5.00E-02	5.00E-02	5.00E-02	5.00E-02	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.1	0.7	1.2	0.1	;
+	layers	=	1	1	1	1	;
+	}						
+889	{method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	4	;
+	Name	=	Ut3	889	Ut3	889	Tu3
+	ksat	=	4.74E-06	4.74E-06	2.08E-06	4.74E-06	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	4.30E-01	4.30E-01	4.30E-01	4.30E-01	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.3	0.15	0.45	0.1	;
+	layers	=	1	1	1	1	;
+	}						
+890	{method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	4	;
+	Name	=	Ut3	890	Ut3	890	Lu
+	ksat	=	4.74E-06	4.74E-06	5.21E-06	3.70E-06	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.3	0.2	0.4	0.7	;
+	layers	=	1	1	1	1	;
+	}						
+891	{method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	4	;
+	Name	=	Lu	891	Ut4	891	Lt3
+	ksat	=	5.21E-06	5.21E-06	2.31E-06	5.21E-06	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.1	0.35	0.65	0.2	;
+	layers	=	1	1	1	1	;
+	}						
+892	{method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	1	;
+	Name	=	Lu	892	Lu	892	Lu
+	ksat	=	5.21E-06	5.21E-06	5.21E-06	5.21E-06	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.1	0.6	1.3	0.1	;
+	layers	=	1	1	1	1	;
+	}						
+893	{method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2.00E+00	3.00E+00	1.00E+00	;
+	Name	=	Uls	893	Uls	893	Ss
+	ksat	=	5.67E-06	5.67E-06	4.34E-05	5.67E-06	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.3	0.15	1.55	0.3	;
+	layers	=	1	1	1	1	;
+	}						
+894	{method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	4	;
+	Name	=	Tu3	894	Tu3	894	Tl
+	ksat	=	2.08E-06	2.08E-06	9.26E-07	9.26E-07	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.1	0.15	0.55	1.2	;
+	layers	=	1	1	1	1	;
+	}						
+898	{method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	4	;
+	Name	=	Lu	898	Lu	898	Lt3
+	ksat	=	5.21E-06	5.21E-06	2.31E-06	9.26E-07	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.3	0.2	0.5	1	;
+	layers	=	1	1	1	1	;
+	}						
+901	{method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	4	;
+	Name	=	Uls	901	Uls	901	Ls2
+	ksat	=	5.67E-06	5.67E-06	6.13E-06	1.32E-05	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.3	0.15	0.45	0.4	;
+	layers	=	1	1	1	1	;
+	}						
+902	{method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	2	3	4	2	;
+	Name	=	Su2	902	Ss	902	Su2
+	ksat	=	2.01E-05	4.34E-05	2.01E-05	2.01E-05	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.05	0.25	0.05	0.05	;
+	layers	=	1	1	1	1	;
+	}						
+903	{method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	4	;
+	Name	=	Us	903	Us	903	Lts
+	ksat	=	4.28E-06	4.28E-06	3.59E-06	9.26E-07	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.1	0.35	0.55	0.3	;
+	layers	=	1	1	1	1	;
+	}						
+904	{method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	1	;
+	Name	=	Slu	904	Slu	904	Lts
+	ksat	=	6.94E-06	6.94E-06	3.59E-06	6.94E-06	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	5.00E-01	5.00E-01	5.00E-01	5.00E-01	;
+	thickness	=	0.1	0.35	0.55	0.1	;
+	layers	=	1	1	1	1	;
+	}						
+908	{method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	4	;
+	Name	=	Ut2	908	Ut2	908	Tu3
+	ksat	=	3.70E-06	3.70E-06	2.08E-06	9.26E-07	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.50E+00	1.50E+00	1.50E+00	1.50E+00	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.3	0.15	0.45	0.4	;
+	layers	=	1	1	1	1	;
+	}						
+909	{method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	1	;
+	Name	=	Lt2	909	Lt2	909	Tl
+	ksat	=	3.82E-06	3.82E-06	9.26E-07	3.82E-06	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	1.00E+00	1.00E+00	1.00E+00	1.00E+00	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.3	0.15	0.55	0.3	;
+	layers	=	1	1	1	1	;
+	}						
+910	{method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	1	2	;
+	Name	=	Ut2	910	Tl	910	Ut2
+	ksat	=	3.70E-06	9.26E-07	3.70E-06	9.26E-07	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	5.00E-02	5.00E-02	5.00E-02	5.00E-02	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.25	0.55	0.25	0.55	;
+	layers	=	1	1	1	1	;
+	}						
+911	{method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	1	;
+	Name	=	Lu	911	Lu	911	Lt3
+	ksat	=	5.21E-06	5.21E-06	2.31E-06	5.21E-06	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	4.30E-01	4.30E-01	4.30E-01	4.30E-01	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.3	0.1	0.6	0.3	;
+	layers	=	1	1	1	1	;
+	}						
+918	{method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	4	;
+	Name	=	Ut3	918	Ut3	918	Lu
+	ksat	=	4.74E-06	4.74E-06	5.21E-06	2.08E-06	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.3	0.2	0.5	0.3	;
+	layers	=	1	1	1	1	;
+	}						
+919	{method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	1	;
+	Name	=	Ut4	919	Ut4	919	Tl
+	ksat	=	5.21E-06	5.21E-06	9.26E-07	5.21E-06	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.3	0.1	0.7	0.3	;
+	layers	=	1	1	1	1	;
+	}						
+920	{method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	4	;
+	Name	=	Ut3	920	Ut3	920	Tu3
+	ksat	=	4.74E-06	4.74E-06	2.08E-06	2.31E-06	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.3	0.15	0.45	0.4	;
+	layers	=	1	1	1	1	;
+	}						
+921	{method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2.00E+00	3.00E+00	4.00E+00	;
+	Name	=	Ut3	921	Ut3	921	Tu3
+	ksat	=	4.74E-06	4.74E-06	2.08E-06	9.26E-07	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.3	0.2	0.4	0.4	;
+	layers	=	1	1	1	1	;
+	}						
+922	{method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	4	;
+	Name	=	Ut3	922	Ut3	922	Tu3
+	ksat	=	4.74E-06	4.74E-06	2.08E-06	2.31E-06	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.3	0.3	0.4	0.2	;
+	layers	=	1	1	1	1	;
+	}						
+923	{method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	4	;
+	Name	=	Lu	923	Lu	923	Lu
+	ksat	=	5.21E-06	5.21E-06	5.21E-06	4.34E-05	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.3	0.5	0.4	0.8	;
+	layers	=	1	1	1	1	;
+	}						
+924	{method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	2	2	2	2	;
+	Name	=	Tl	924	Tl	924	Tl
+	ksat	=	9.26E-07	9.26E-07	9.26E-07	9.26E-07	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.7	0.7	0.7	0.7	;
+	layers	=	1	1	1	1	;
+	}						
+1112	{method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	1	;
+	Name	=	Ls4	1112	Lts	1112	St3
+	ksat	=	7.87E-06	3.59E-06	1.32E-05	7.87E-06	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.3	0.55	1.15	0.3	;
+	layers	=	1	1	1	1	;
+	}						
+1131	{method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	1	2	;
+	Name	=	Tu3	1131	Tu3	1131	Tu3
+	ksat	=	2.08E-06	2.08E-06	2.08E-06	2.08E-06	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.15	1.85	0.15	1.85	;
+	layers	=	1	1	1	1	;
+	}						
+1138	{method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	1	;
+	Name	=	Sl3	1138	Sl3	1138	Sl2
+	ksat	=	1.13E-05	1.13E-05	1.86E-05	1.13E-05	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	5.00E-01	5.00E-01	5.00E-01	5.00E-01	;
+	thickness	=	0.3	0.2	1.5	0.3	;
+	layers	=	1	1	1	1	;
+	}						
+1139	{method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	4	;
+	Name	=	Ut2	1139	Ut2	1139	Ut4
+	ksat	=	3.70E-06	3.70E-06	5.21E-06	4.34E-05	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.50E+00	1.50E+00	1.50E+00	1.50E+00	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.3	0.2	0.35	1.15	;
+	layers	=	1	1	1	1	;
+	}						
+1185	{method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	4	;
+	Name	=	Ut2	1185	Ut2	1185	Tu4
+	ksat	=	3.70E-06	3.70E-06	3.82E-06	9.26E-07	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	1.00E+00	1.00E+00	1.00E+00	1.00E+00	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.25	0.15	0.2	0.4	;
+	layers	=	1	1	1	1	;
+	}						
+1206	{method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	1	2	;
+	Name	=	Lt2	1206	Lts	1206	Lt2
+	ksat	=	3.82E-06	3.59E-06	3.82E-06	3.59E-06	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	5.00E-02	5.00E-02	5.00E-02	5.00E-02	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.3	0.35	0.3	0.35	;
+	layers	=	1	1	1	1	;
+	}						
+1219	{method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	4	;
+	Name	=	Ut2	1219	Ut2	1219	Ut4
+	ksat	=	3.70E-06	3.70E-06	5.21E-06	4.74E-06	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	4.30E-01	4.30E-01	4.30E-01	4.30E-01	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.3	0.2	0.35	1.15	;
+	layers	=	1	1	1	1	;
+	}						
+1221	{method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	1	;
+	Name	=	Sl3	1221	Sl3	1221	Sl2
+	ksat	=	1.13E-05	1.13E-05	1.86E-05	1.13E-05	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.3	0.2	0.2	0.3	;
+	layers	=	1	1	1	1	;
+	}						
+1222	{method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	4	;
+	Name	=	Su4	1222	Su2	1222	Sl3
+	ksat	=	6.71E-06	2.01E-05	1.13E-05	1.13E-05	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.15	0.35	0.4	0.3	;
+	layers	=	1	1	1	1	;
+	}						
+1223	{method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	4	;
+	Name	=	Su2	1223	Su2	1223	Su2
+	ksat	=	2.01E-05	2.01E-05	2.01E-05	2.01E-05	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.05	0.05	0.1	0.2	;
+	layers	=	1	1	1	1	;
+	}						
+1229	{method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2.00E+00	3.00E+00	1.00E+00	;
+	Name	=	Lt2	1229	Lts	1229	Tu2
+	ksat	=	3.82E-06	3.59E-06	9.26E-07	3.82E-06	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.3	0.2	0.4	0.3	;
+	layers	=	1	1	1	1	;
+	}						
+1230	{method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	1	;
+	Name	=	Lt3	1230	Tu2	1230	Tu2
+	ksat	=	2.31E-06	9.26E-07	9.26E-07	2.31E-06	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.25	0.35	0.25	0.25	;
+	layers	=	1	1	1	1	;
+	}						
+1231	{method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	1	;
+	Name	=	Lt3	1231	Tu2	1231	Tu2
+	ksat	=	2.31E-06	9.26E-07	9.26E-07	2.31E-06	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.25	0.35	0.25	0.25	;
+	layers	=	1	1	1	1	;
+	}						
+1232	{method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	1	;
+	Name	=	Lt3	1232	Tu2	1232	Tu2
+	ksat	=	2.31E-06	9.26E-07	9.26E-07	2.31E-06	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.25	0.35	0.25	0.25	;
+	layers	=	1	1	1	1	;
+	}						
+1233	{method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	1	;
+	Name	=	Lt3	1233	Tl	1233	Tt
+	ksat	=	2.31E-06	9.26E-07	4.63E-07	2.31E-06	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.3	0.3	0.15	0.3	;
+	layers	=	1	1	1	1	;
+	}						
+1234	{method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	1	;
+	Name	=	Lt3	1234	Tu2	1234	Tu2
+	ksat	=	2.31E-06	9.26E-07	9.26E-07	2.31E-06	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.25	0.35	0.25	0.25	;
+	layers	=	1	1	1	1	;
+	}						
+1237	{method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	1	2	;
+	Name	=	Tu3	1237	Tu2	1237	Tu3
+	ksat	=	2.08E-06	9.26E-07	2.08E-06	9.26E-07	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	5.00E-01	5.00E-01	5.00E-01	5.00E-01	;
+	thickness	=	0.25	0.25	0.25	0.25	;
+	layers	=	1	1	1	1	;
+	}						
+1238	{method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	1	;
+	Name	=	Tu3	1238	Tu2	1238	Tu2
+	ksat	=	2.08E-06	9.26E-07	9.26E-07	2.08E-06	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.50E+00	1.50E+00	1.50E+00	1.50E+00	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.25	0.25	0.5	0.25	;
+	layers	=	1	1	1	1	;
+	}						
+1239	{method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	1	;
+	Name	=	Lt2	1239	Lts	1239	Lts
+	ksat	=	3.82E-06	3.59E-06	3.59E-06	3.82E-06	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	1.00E+00	1.00E+00	1.00E+00	1.00E+00	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.3	0.2	0.4	0.3	;
+	layers	=	1	1	1	1	;
+	}						
+1245	{method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	1	;
+	Name	=	Ls3	1245	Ls3	1245	Ls4
+	ksat	=	8.56E-06	8.56E-06	7.87E-06	8.56E-06	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	5.00E-02	5.00E-02	5.00E-02	5.00E-02	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.3	0.2	0.5	0.3	;
+	layers	=	1	1	1	1	;
+	}						
+1248	{method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	1	;
+	Name	=	Ls3	1248	Ls3	1248	Ls4
+	ksat	=	8.56E-06	8.56E-06	7.87E-06	8.56E-06	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	4.30E-01	4.30E-01	4.30E-01	4.30E-01	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.1	0.4	0.5	0.1	;
+	layers	=	1	1	1	1	;
+	}						
+1263	{method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	1	;
+	Name	=	Ls3	1263	Ls3	1263	Ls4
+	ksat	=	8.56E-06	8.56E-06	7.87E-06	8.56E-06	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.1	0.4	0.5	0.1	;
+	layers	=	1	1	1	1	;
+	}						
+1264	{method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	1	;
+	Name	=	Ls3	1264	Ls3	1264	Ls4
+	ksat	=	8.56E-06	8.56E-06	7.87E-06	8.56E-06	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.1	0.4	0.5	0.1	;
+	layers	=	1	1	1	1	;
+	}						
+1276	{method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	1	;
+	Name	=	Ls3	1276	Ls3	1276	Ls4
+	ksat	=	8.56E-06	8.56E-06	7.87E-06	8.56E-06	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.1	0.4	0.5	0.1	;
+	layers	=	1	1	1	1	;
+	}						
+1277	{method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2.00E+00	3.00E+00	4.00E+00	;
+	Name	=	Su3	1277	Su3	1277	Sl3
+	ksat	=	1.02E-05	1.02E-05	1.13E-05	1.13E-05	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.3	0.6	0.3	0.8	;
+	layers	=	1	1	1	1	;
+	}						
+1527	{method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	4	;
+	Name	=	Lt2	1527	Lt2	1527	Lt2
+	ksat	=	3.82E-06	3.82E-06	3.82E-06	1.13E-05	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.15	0.1	0.35	0.4	;
+	layers	=	1	1	1	1	;
+	}						
+1551	{method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	4	;
+	Name	=	Slu	1551	Sl4	1551	Sl2
+	ksat	=	6.94E-06	1.23E-05	1.86E-05	1.86E-05	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.25	0.15	0.2	1.4	;
+	layers	=	1	1	1	1	;
+	}						
+1893	{method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	4	;
+	Name	=	Sl2	1893	Sl2	1893	Ss
+	ksat	=	1.86E-05	1.86E-05	4.34E-05	4.34E-05	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.3	0.1	0.6	1	;
+	layers	=	1	1	1	1	;
+	}						
+1901	{method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	4	;
+	Name	=	Su2	1901	Su2	1901	mSfs
+	ksat	=	2.01E-05	2.01E-05	7.81E-05	0.00024297	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.3	0.4	0.5	0.8	;
+	layers	=	1	1	1	1	;
+	}						
+1906	{method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	4	;
+	Name	=	Ls2	1906	Ls2	1906	Tu3
+	ksat	=	6.13E-06	6.13E-06	2.08E-06	3.82E-06	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.25	0.15	0.3	0.2	;
+	layers	=	1	1	1	1	;
+	}						
+1907	{method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	4	;
+	Name	=	Su2	1907	Su2	1907	Ss
+	ksat	=	2.01E-05	2.01E-05	4.34E-05	3.59E-06	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	5.00E-01	5.00E-01	5.00E-01	5.00E-01	;
+	thickness	=	0.3	0.2	0.4	1.1	;
+	layers	=	1	1	1	1	;
+	}						
+1910	{method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	1	;
+	Name	=	Sl2	1910	Sl2	1910	Ss
+	ksat	=	1.86E-05	1.86E-05	4.34E-05	1.86E-05	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.50E+00	1.50E+00	1.50E+00	1.50E+00	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.3	0.7	1	0.3	;
+	layers	=	1	1	1	1	;
+	}						
+1920	{method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	4	;
+	Name	=	Ls2	1920	Ls2	1920	Tu3
+	ksat	=	6.13E-06	6.13E-06	2.08E-06	4.34E-05	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	1.00E+00	1.00E+00	1.00E+00	1.00E+00	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.25	0.25	0.4	0.3	;
+	layers	=	1	1	1	1	;
+	}						
+1963	{method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	1	;
+	Name	=	Su3	1963	Su3	1963	Lts
+	ksat	=	1.02E-05	1.02E-05	3.59E-06	1.02E-05	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	5.00E-02	5.00E-02	5.00E-02	5.00E-02	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.3	0.15	0.55	0.3	;
+	layers	=	1	1	1	1	;
+	}						
+1982	{method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	1	;
+	Name	=	Lu	1982	Tl	1982	Tl
+	ksat	=	5.21E-06	9.26E-07	9.26E-07	5.21E-06	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	4.30E-01	4.30E-01	4.30E-01	4.30E-01	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.3	0.5	0.7	0.3	;
+	layers	=	1	1	1	1	;
+	}						
+1985	{method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	1	2	;
+	Name	=	Lt3	1985	Lt3	1985	Lt3
+	ksat	=	2.31E-06	2.31E-06	2.31E-06	2.31E-06	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.25	0.15	0.25	0.15	;
+	layers	=	1	1	1	1	;
+	}						
+1986	{method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	1	;
+	Name	=	Tu3	1986	Tl	1986	Tl
+	ksat	=	2.08E-06	9.26E-07	9.26E-07	2.08E-06	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.3	0.5	0.5	0.3	;
+	layers	=	1	1	1	1	;
+	}						
+2004	{method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	2	3	4	2	;
+	Name	=	Lu	2004	Lu	2004	Ts2
+	ksat	=	5.21E-06	5.21E-06	9.26E-07	5.21E-06	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.1	0.1	0.5	0.1	;
+	layers	=	1	1	1	1	;
+	}						
+2006	{method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	2	3.00E+00	4.00E+00	2.00E+00	;
+	Name	=	Sl3	2006	Sl3	2006	Sl2
+	ksat	=	1.13E-05	1.13E-05	1.86E-05	1.13E-05	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.03	0.12	0.3	0.03	;
+	layers	=	1	1	1	1	;
+	}						
+2009	{method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	2	3	4	2	;
+	Name	=	Ls2	2009	Ls2	2009	Ls2
+	ksat	=	6.13E-06	6.13E-06	6.13E-06	6.13E-06	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.05	0.05	0.3	0.05	;
+	layers	=	1	1	1	1	;
+	}						
+2014	{method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	2	3	4	2	;
+	Name	=	Su2	2014	Su2	2014	Ss
+	ksat	=	2.01E-05	2.01E-05	4.34E-05	2.01E-05	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.02	0.13	0.1	0.02	;
+	layers	=	1	1	1	1	;
+	}						
+2015	{method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	4	;
+	Name	=	Uls	2015	Uls	2015	Su3
+	ksat	=	5.67E-06	5.67E-06	1.02E-05	4.34E-05	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.3	0.25	0.35	0.1	;
+	layers	=	1	1	1	1	;
+	}						
+2016	{method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	2	3	4	2	;
+	Name	=	Ut3	2016	Ut3	2016	Ut3
+	ksat	=	4.74E-06	4.74E-06	4.74E-06	4.74E-06	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.03	0.07	0.3	0.03	;
+	layers	=	1	1	1	1	;
+	}						
+2018	{method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	2	3	4	2	;
+	Name	=	Ut3	2018	Ut3	2018	Ut3
+	ksat	=	4.74E-06	4.74E-06	4.74E-06	4.74E-06	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.03	0.07	0.3	0.03	;
+	layers	=	1	1	1	1	;
+	}						
+2020	{method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	4	;
+	Name	=	Lt2	2020	Lt2	2020	Lt2
+	ksat	=	3.82E-06	3.82E-06	3.82E-06	1.13E-05	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.15	0.1	0.35	0.4	;
+	layers	=	1	1	1	1	;
+	}						
+2157	{method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	3	4	3	4	;
+	Name	=	Lu	2157	Lu	2157	Lu
+	ksat	=	5.21E-06	5.21E-06	5.21E-06	5.21E-06	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.04	0.16	0.04	0.16	;
+	layers	=	1	1	1	1	;
+	}						
+2174	{method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	2	3	4	2	;
+	Name	=	Sl3	2174	Sl2	2174	mSfs
+	ksat	=	1.13E-05	1.86E-05	7.81E-05	1.13E-05	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.05	0.55	1.4	0.05	;
+	layers	=	1	1	1	1	;
+	}						
+2464	{method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	4	;
+	Name	=	Uls	2464	Uls	2464	Lu
+	ksat	=	5.67E-06	5.67E-06	5.21E-06	1.86E-05	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.15	0.7	0.55	0.6	;
+	layers	=	1	1	1	1	;
+	}						
+2467	{method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	1	;
+	Name	=	Ls2	2467	Sl3	2467	Sl2
+	ksat	=	6.13E-06	1.13E-05	1.86E-05	6.13E-06	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.2	0.3	1.5	0.2	;
+	layers	=	1	1	1	1	;
+	}						
+1240 {method	=	MultipleHorizons;	ThicknessScaling=1;				
+	horizon	=	1	2	3	4	;
+	Name	=	Ss		Ss		Ss
+	ksat	=	4.34E-05	4.34E-05	4.34E-05	4.34E-05	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.3	0.1	0.25	0.15	;
+	layers	=	1	1	1	1	;
+	}						
+1588	{method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	4	;
+	Name	=	Sl3	1588	Sl3	1588	Sl2
+	ksat	=	1.13E-05	1.13E-05	1.13E-05	1.13E-05	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.25	0.25	0.5	1	;
+	layers	=	1	1	1	1	;
+	}						
+1597	{method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	4	;
+	Name	=	Sl3	1597	Sl3	1597	Sl2
+	ksat	=	1.13E-05	1.13E-05	1.13E-05	1.13E-05	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.3	0.2	0.2	1.3	;
+	layers	=	1	1	1	1	;
+	}						
+1602	{method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	4	;
+	Name	=	Sl3	1602	Sl3	1602	Sl2
+	ksat	=	1.13E-05	1.13E-05	1.13E-05	1.13E-05	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.25	0.25	0.5	1	;
+	layers	=	1	1	1	1	;
+	}						
+1603	{method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	4	;
+	Name	=	Sl3	1603	Sl3	1603	Sl2
+	ksat	=	1.13E-05	1.13E-05	1.13E-05	1.13E-05	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.25	0.25	0.5	1	;
+	layers	=	1	1	1	1	;
+	}						
+1604	{method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	4	;
+	Name	=	Sl3	1604	Sl3	1604	Sl2
+	ksat	=	1.13E-05	1.13E-05	1.13E-05	1.13E-05	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.25	0.25	0.5	1	;
+	layers	=	1	1	1	1	;
+	}						
+1606	{method	=	MultipleHorizons;	ThicknessScaling=1;			
+	horizon	=	1	2	3	4	;
+	Name	=	Sl3	1606	Sl3	1606	Sl2
+	ksat	=	1.13E-05	1.13E-05	1.13E-05	1.13E-05	;
+	k_recession	=	0.4	0.5	0.6	0.7;
+	theta_sat	=	0.43	0.43	0.43	0.43	;
+	theta_res	=	0.05	0.05	0.05	0.05	;
+	alpha	=	2	2	2	8	;
+	Par_n	=	1.5	1.5	1.5	1.5	;
+	Par_tau	=	0.5	0.5	0.5	0.5	;
+	thickness	=	0.3	0.2	0.2	1.3	;
+	layers	=	1	1	1	1	;
+	}						
